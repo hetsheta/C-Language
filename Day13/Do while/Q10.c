@@ -3,7 +3,7 @@
 int main()
 {
 	int i=1;
-	int n,mul;
+	int n;
 	
 	printf("Enter the number:");
 	scanf("%d",&n);
